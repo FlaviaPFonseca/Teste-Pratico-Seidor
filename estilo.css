@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  }
+  body{
+  background-color: rgb(235, 220, 220);
+  font-family:verdana;
+  font-size:100%
+  }
+  .container{
+  margin:auto;
+  width:1200px;
+  margin-top:20pix;
+  padding:10px;
+  }
+  nav{
+  width:200px;
+  height: 500px;
+  background-color:rgb(235, 215, 215);
+  float : left;
+  }
+  section{
+  width:870px;
+  height: 500px;
+  margin-left:10px;
+  float: left;
+  background-color:grey;
+  }
+
+  ul.menu{
+  list-style-type:none;
+  }
+  ul.menu li{
+  width:200px;
+  height: 30px;
+  line-height: 30px;
+  background-color:#777;
+  color:branco;
+  }
+
+  /*Rodape*/
+  footer{
+    clear: both;
+    background-color:#1bbf78 ;
+    height: 30px;
+    text-align: center;
+  }
